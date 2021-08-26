@@ -24,19 +24,22 @@
 
 ## 题目一览
 
-| 题目                                    | 类型                                 | 难度     | 解法                            |
-| --------------------------------------- | ------------------------------------ | -------- | ------------------------------- |
-| 剑指II-001 整数除法                     | simulation，bitwise                  | :accept: | [my solutions](./src/II_001.md) |
-| 剑指II-002 二进制加法                   | simulation                           | :accept: | [my solutions](./src/II_002.md) |
-| 剑指II-003 前 n 个数字二进制中 1 的个数 | bitwise，iterate                     | :accept: | [my solutions](./src/II_003.md) |
-| 剑指II-004 只出现一次的数字             | bitwise - bit shift, set, hash table | :accept: | [my solutions](./src/II_004.md) |
+| 题目                                    | 类型                                 | 难度             | 解法                          |
+| --------------------------------------- | ------------------------------------ | ---------------- | ----------------------------- |
+| 剑指II-001 整数除法                     | simulation, bitwise                  | :accept:         | [:minidisc:](./src/II_001.md) |
+| 剑指II-002 二进制加法                   | simulation                           | :accept:         | [:minidisc:](./src/II_002.md) |
+| 剑指II-003 前 n 个数字二进制中 1 的个数 | bitwise, iterate                     | :accept:         | [:minidisc:](./src/II_003.md) |
+| 剑指II-004 只出现一次的数字             | bitwise - bit shift, set, hash table | :accept::accept: | [:minidisc:](./src/II_004.md) |
+| 剑指II-005 单词长度的最大乘积           | matrix, bitwise                      | :accept::accept: | [:minidisc:](./src/II_005.md) |
+| 剑指II-006 排序数组中两个数字之和       | two pointer                          | :accept:         | [:minidisc:](./src/II_006.md) |
+| 剑指II-007 数组中和为 0 的三个数        | two pointer                          | :accept::accept: | [:minidisc:](./src/II_007.md) |
 
 ## emoji 速查表
 
 | ico           | shortcode       | ico            | shortcode        |
 | ------------- | --------------- | -------------- | ---------------- |
 | :green_heart: | `:green_heart:` | :yellow_heart: | `:yellow_heart:` |
-| :heart:       | `:heart:`       | :accept:       | `:accept:`       |
+| :minidisc:    | `:minidisc:`    | :accept:       | `:accept:`       |
 
 Source: https://github.com/zhouie/markdown-emoji ([mirror](https://hub.fastgit.org/zhouie/markdown-emoji))
 
