@@ -41,3 +41,10 @@ Source: https://github.com/zhouie/markdown-emoji ([mirror](https://hub.fastgit.o
 | 多行代码  | ```java         |           |                 |
 
 Source: https://www.markdownguide.org/basic-syntax
+
+
+
+## 排版
+
+为了图片的美观，统一用`<div align="center"> <img src=""/> </div>`；
+
