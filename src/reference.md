@@ -3,7 +3,8 @@
 ## 做题的网站
 
 1. 力扣中国（[力扣](https://leetcode-cn.com/)）
-2. 牛客网（[牛客题霸](https://www.nowcoder.com/activity/oj)）
+2. 力扣中国 [剑指 Offer（专项突击版）](https://leetcode-cn.com/problem-list/e8X3pBZi/)
+3. 牛客网（[牛客题霸](https://www.nowcoder.com/activity/oj)）
 
 ## 推荐的博主
 
