@@ -4,8 +4,6 @@
 
 ## 目录（按题号）
 
-* 力扣中国-剑指 Offer（专项突击版）: https://leetcode-cn.com/problem-list/e8X3pBZi/
-
 | 题目                                     | 类型                                 | 难度                     | 解法                          |
 | ---------------------------------------- | ------------------------------------ | ------------------------ | ----------------------------- |
 | 001 整数除法                             | simulation, bitwise                  | :accept:                 | [:minidisc:](./src/II_001.md) |
@@ -43,6 +41,8 @@
 | 033 变位词组                             | hash table, quick sort               | :accept::accept:         | [:minidisc:](./src/II_033.md) |
 | 034 外星语言是否排序                     | hash table                           | :accept:                 | [:minidisc:](./src/II_034.md) |
 | 035 最小时间差                           | hash table, quick sort               | :accept::accept:         | [:minidisc:](./src/II_035.md) |
+
+*力扣中国-剑指 Offer（专项突击版）: https://leetcode-cn.com/problem-list/e8X3pBZi/
 
 *:accept:数目与难度正相关。
 
